@@ -1,10 +1,2 @@
 #!/bin/bash
-file iamafile#!/bin/bash
-file iamafile#!/bin/bash
-file iamafile#!/bin/bash
-file iamafile#!/bin/bash
-file iamafile#!/bin/bash
-file iamafile#!/bin/bash
-file iamafile#!/bin/bash
-file iamafile#!/bin/bash
-file iamafile
+file /tmp/iamafile
