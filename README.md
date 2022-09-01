@@ -1,1 +1,1 @@
- absolute current path directory
+shell basics
